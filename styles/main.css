@@ -1,0 +1,13 @@
+body {
+	background-color: orange;
+}
+
+.prodCard {
+	border: 2px solid black;
+	margin: 2px;
+	min-height: 250px;
+}
+
+.hidden {
+	display: none;
+}

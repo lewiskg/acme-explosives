@@ -1,0 +1,14 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Fireworks",
+            "types": [1,2,3]
+        },
+        {
+            "id": 1,
+            "name": "Demolition",
+            "types": [4,5,6]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "products": [
+    {
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        }
+    },
+    {
+        "fairy_grenades": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy grenades",
+            "description": "High Explosive - Not safe for any age."
+        }
+    },
+    {
+        "fairy_snap_pops": {
+            "id": 2,
+            "type": 0,
+            "name": "Fairy Snap Pops",
+            "description": "Wimppy noise makers that annoy anyone at any age."
+        }
+    },
+    {
+        "fairy_cherry_bomb": {
+            "id": 3,
+            "type": 1,
+            "name": "Fairy Cherry Bomb",
+            "description": "Ch-Ch-Ch-Cherry Bomb!!!!."
+        }    
+    },
+    {
+        "fairy_farts": {
+            "id": 4,
+            "type": 1,
+            "name": "Fairy Farts",
+            "description": "It will knock you out, but you'll be happy."
+        }
+    },
+    {
+        "fairy_belchs": {
+            "id": 5,
+            "type": 1,
+            "name": "Fairy belchs",
+            "description": "A loud noise with an equally offending odor."
+        }
+    },
+    {
+        "fairy_screams": {
+            "id": 6,
+            "type": 2,
+            "name": "Fairy Screams",
+            "description": "You'll go deaf, but you'll smile."
+        }
+    },
+    {
+        "fairy_knuckles": {
+            "id": 7,
+            "type": 2,
+            "name": "Fairy Knuckles",
+            "description": "If you don't have the money, you won't have any fingers."
+        }
+    },
+    {
+        "fairy_money": {
+            "id": 8,
+            "type": 2,
+            "name": "Fairy Money",
+            "description": "Cash is king in fairy land."
+        }
+    },
+    {
+        "fairy_lasers": {
+            "id": 9,
+            "type": 3,
+            "name": "Fairy Lasers",
+            "description": "Fairies with frick'n lasers beams on their head!"
+        }
+    },
+    {
+        "fairy_rocketLauncher": {
+            "id": 10,
+            "type": 3,
+            "name": "Fairy Rocket Launcher",
+            "description": "Getting to the chopper won't help you."
+        }
+    },
+    {
+        "fairy_gatlingGun": {
+            "id": 11,
+            "type": 3,
+            "name": "Fairy Gatling Gun",
+            "description": "You can run, but you'll just die tired."
+        }
+    },
+    {
+        "fairy_schizophrenic": {
+            "id": 12,
+            "type": 4,
+            "name": "Fairy Schizophrenic",
+            "description": "More Fairies in one package, what could go wrong?"
+        }
+    },
+    {
+        "fairy_pepperSpray": {
+            "id": 13,
+            "type": 4,
+            "name": "Fairy Pepper Spray",
+            "description": "Bottled Fairy piss in a pressurized container."
+        }
+    },
+    {
+        "fairy_sticks": {
+            "id": 14,
+            "type": 4,
+            "name": "Fairy Sticks",
+            "description": "Enter the Fairy Dragon kung-foo fighting."
+        }
+    },
+    {
+        "fairy_landMines": {
+            "id": 15,
+            "type": 5,
+            "name": "Fairy Land Mines",
+            "description": "For use when your annoying neighbor tip toes through your tulips."
+        }
+    },
+    {
+            "fairy_waterMines": {
+            "id": 16,
+            "type": 5,
+            "name": "Fairy Under Water Mines",
+            "description": "For when you don't care who's on a boat."
+        }
+    },
+    {
+        "fairy_icbms": {
+            "id": 17,
+            "type": 5,
+            "name": "Fairy ICBMS",
+            "description": "Reach out and touch someone in other country ... and annihilate them."
+        }    
+    }]
+}
