@@ -103,13 +103,12 @@ const printCategories = (category) => {
 
 const domString = (explosives) => {
 	let domStrang = "";
-		domStrang +=  `<div class="${explosives.type.category} prodCard col-sm-3 col-md-3">`;
+		domStrang +=  `<div class="${explosives.type.category} prodCard col-md-3 col-sm-3">`;
 		domStrang +=      `<div class="card-product">`;
 		domStrang +=        `<h3>${explosives.name}</h3>`;
-		domStrang += 		`<p>${explosives.type.name}</p>`;
-		domStrang += 		`<p>${explosives.type.category}</p>`;
-		domStrang +=        `<p>${explosives.description}</p>`;
-		domStrang +=        `<p>${explosives.name}</p>`;
+		domStrang += 		`<p><span class="bold">Type:</span> ${explosives.type.name}</p>`;
+		domStrang += 		`<p><span class="bold">Category:</span> <span class="explosives-category">${explosives.type.category}</span></p>`;
+		domStrang +=        `<p><span class="bold">Description:</span> ${explosives.description}</p>`;
 		domStrang +=      `</div>`;
 		domStrang +=  `</div>`;
 	printToDom(domStrang);
@@ -157,11 +156,7 @@ const addListener =() => {
 	});
 };
 
-
-
-
 module.exports = {addListener}; 
-
 },{}],4:[function(require,module,exports){
 "use strict";
 

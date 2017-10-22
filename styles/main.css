@@ -4,10 +4,30 @@ body {
 
 .prodCard {
 	border: 2px solid black;
-	margin: 2px;
-	min-height: 250px;
+	margin: 2px auto;
+	min-height: 200px;
 }
 
 .hidden {
 	display: none;
+}
+
+.Fireworks {
+	background-color: Cornsilk;
+}
+
+.Demolition {
+	background-color: lightgray;
+}
+
+#selector {
+	margin: 5px;
+}
+
+.explosives-category {
+	color: red;
+}
+
+.bold {
+	font-weight: bold;
 }
