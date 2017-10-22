@@ -1,0 +1,46 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations.",
+            "products": [0,1,2]
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "professional",
+            "description": "Fireworks intended for professionals only.",
+            "products": [3,4,5]
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "public",
+            "description": "Fireworks intended for use in public restrooms.",
+            "products": [6,7,8]
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "domestic terrorist",
+            "description": "I can't believe it's not butter!",
+            "products": [9,10,11]
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "international terrorist",
+            "description": "Don't hid in underware!",
+            "products": [11,13,14]
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Tyler Durden",
+            "description": "No one talks about these explosives ... and lives.",
+            "products": [15,16,17]
+        }        
+    ]
+}
