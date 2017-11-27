@@ -11,10 +11,10 @@
 4. Data cards are displayed as individuals DIV's in a Bootstrap grid. Each product card displays the name of the product, its type, and its product category. Not the integer.
 
 ### Page on load:
-<img src="/img/site1.jgp">
+![Alt text](./img/site1.jpg)
 
 ### On "Fireworks" selection in user dropdown menu:
-<img src="/img/site2.jgp">
+![Alt text](./img/site2.jpg)
 
 ### On "Demolition" selection in user dropdown menu:
-<img src="/img/site3.jgp">
+![Alt text](./img/site3.jpg)
